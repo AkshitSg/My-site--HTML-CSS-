@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+   
+}
+span{
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color:rgb(0 132 119);
+}
+
+h2,h3{
+    color: rgb(0 132 119);
+}
+
+hr{
+    border: 6px solid grey;
+    border-style: none none dotted;
+    width: 6%;
+    margin-bottom: 50px;
+    opacity: 0.3;
+    
+}
+#sub-heading{
+   
+    text-align: center;
+    font-size: 30px;
+    font-weight:normal;
+    color:rgb(4 171 155 / 98%);
+    line-height: 2;
+    
+}
+
+
+
+.top-container{
+    background-color:#FEFFDE;
+    position: relative;
+    height: 600px;
+    padding:20px;
+}
+.middle__container{
+    text-align: center;
+}
+
+
+.clouds{
+    
+    height: 100px;
+}
+
+#cloud-1{
+    position: absolute;
+    top: 100px;
+    left: 130px;
+
+}
+
+#cloud-2{
+    position: absolute;
+    right:130px;
+}
+
+.mountain{
+    position: absolute;
+    top:400px;
+    left: 320px;
+    width: 45%;
+    
+}
+
+.profile{
+    
+    padding: 100px;
+}
+
+.skill__image-1,.skill__image-2{
+    height: 250px;
+    
+    
+}
+
+
+.skill__row-1{
+    padding-bottom: 80px;
+    width: 50%;
+    margin: 70px auto 0 auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.skill__row-2{
+    width: 50%;
+    margin: 0 auto 70px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.skill__image-1{
+    width: 25%;
+    height:25%;
+    float: right;
+    padding-left:30px;   
+}
+.skill__image-2{
+    width: 25%;
+    height:25%;
+    float: left;
+    padding-right:30px;
+    
+}
+
+.nav__bar{
+   height: 60px;
+   padding: 15px ;
+   background-color:#FEFFDE;  
+   text-align: right; 
+}
+.nav__tags{
+    font-size: 16px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(0 132 119);
+    text-align: right;
+    padding-right: 30px;
+}
+
+#nav-icon{
+    float: left;
+    width: 5%;
+    border-radius: 50%;
+    
+}
+
+.bottom__container{
+    background-color:#FEFFDE;
+    height: 200px;
+    text-align: center;
+}
+
+.footer__caption{
+    font-size:40px;
+    font-family:'Sacramento', cursive;
+    color: rgb(0 132 119);
+    font-weight: 600;
+    width: 20%;
+    margin:50px auto 20px;
+    padding-top: 30px;
+}
+
+
+.footer__tags{
+    text-decoration: none;
+    width: 30%;
+    color: rgb(0 132 119);
+    margin:0 auto;
+    padding-right: 15px;
+}
+
+.contact__button{
+    background-color: rgb(0 132 119);
+    font-size: 20px;
+    padding:10px 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: white;
+    font-family: monospace;
+    
+}
+
+
+
